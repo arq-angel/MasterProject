@@ -24,3 +24,21 @@ H
 src/Framework/Router.php,a\6\a6da99f71c172dab7f4d7eb1072a56ab9d46a36c
 V
 &src/App/Controllers/HomeController.php,1\e\1ec065f74f6c5ee5dd8a3c6e0c6742561b905b5c
+P
+ src/Framework/TemplateEngine.php,7\3\73ec325d01bd6e1eb5867973871e2972f0e15345
+G
+src/App/views/index.php,f\3\f31a2dca97c6c04ca3586c2c3d746c16aca725f2
+H
+src/App/config/Paths.php,c\b\cba5f0010fb64531ad028e222e5b83e46da3cc0f
+F
+public/assets/main.css,1\e\1e84472c91309d8f7fe7ebc7e5b973f6c38cb139
+R
+"src/App/views/partials/_header.php,5\d\5d314989b245c140b9a0451464a1f6450a36aa8b
+R
+"src/App/views/partials/_footer.php,5\9\594076abfd1f5282ca645994093e5d27850d7166
+G
+src/App/views/about.php,f\c\fc432f71bf244fe5ec1a3516f11c6098d082e2e1
+W
+'src/App/Controllers/AboutController.php,c\e\cef449fe50bc2f4f2c75253c9443e212cab15511
+I
+src/App/config/Routes.php,3\3\338a693702d0f2c25cfeba3d4f0cd0c14028be7f
