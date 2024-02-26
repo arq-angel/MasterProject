@@ -98,3 +98,23 @@ J
 src/Framework/Database.php,d\e\de90cb5af59750de77431df5cd33adb6ac4a08ed
 <
 database.sql,d\d\dd715606dbf1c1508d07bd20c1262a49c65d1863
+=
+composer.lock,c\3\c3262e2a0879195bd6a727e90f768bc85ad79ffd
+4
+.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+<
+.env.example,d\4\d4dae00d11854b35292c2b8a30515a9a0aa2d871
+P
+ src/App/Services/UserService.php,7\b\7b65812f9bcf7e32b15b5e81c48328f890d54ddc
+G
+src/App/views/login.php,e\6\e6b00899b8d8556e5488de12e63f8009d4169d35
+]
+-src/App/Middleware/AuthRequiredMiddleware.php,6\a\6aa2f06adf5641c2db6f032a1775c135c6dfb33e
+Z
+*src/App/Middleware/GuestOnlyMiddleware.php,4\c\4c1c57cdb4fbe5ff7fab64b621e63b3c36950c0a
+Z
+*src/App/Middleware/CsrfTokenMiddleware.php,7\3\73d9f49253157c6570ba764d3ac9103ed97c65b0
+P
+ src/App/views/partials/_csrf.php,c\3\c3aa74bec81fd0568dbbe6052d16e9c4621c42ed
+Z
+*src/App/Middleware/CSRFGuardMiddleware.php,b\8\b851cc4cc2ad44c9d1a5ffede7f6d05889b8180b
