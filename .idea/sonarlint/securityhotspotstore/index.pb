@@ -5,8 +5,6 @@
 	README.me,f\a\fa75912a6344b0c0c44641def268d8a677d64275
 E
 src/Framework/App.php,a\6\a6d7914964df86a521755c8e662684f69af32c12
-@
-public/about.php,f\e\fe8235f3e0972388dd273225fe418041974412d8
 E
 src/App/bootstrap.php,1\e\1ee35d9c177280c54a665bda9e3ede8d8e8be89b
 =
@@ -42,3 +40,15 @@ W
 'src/App/Controllers/AboutController.php,c\e\cef449fe50bc2f4f2c75253c9443e212cab15511
 I
 src/App/config/Routes.php,3\3\338a693702d0f2c25cfeba3d4f0cd0c14028be7f
+K
+src/Framework/Container.php,9\1\91ae99b229d16bbb306209e07f759342500ab114
+Q
+!src/App/container-definitions.php,9\e\9eb7a8973f15702f6b64d85c0a2cfd967dbb6549
+_
+/src/Framework/Exceptions/ContainerException.php,f\5\f5abe96904357c8541ba1d44bb767bb1195b5079
+M
+src/App/config/Middleware.php,c\4\c4f624369691a71d3200c6a7a5fe44b83776dcd4
+]
+-src/App/Middleware/TemplateDataMiddleware.php,1\b\1baa385d8a000803e85ca57f1205078db02cea7b
+_
+/src/Framework/Contracts/MiddlewareInterface.php,2\4\24c337e6b170c87401e00c01986fd772cdb7217d
