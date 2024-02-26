@@ -92,3 +92,9 @@ O
 src/Framework/Rules/UrlRule.php,8\5\8584529d1822988b0efee1d5b5e1d02b84a0e4f5
 Q
 !src/Framework/Rules/MatchRule.php,6\8\68ab1eae3af54b996023ae51815b6f628759f732
+7
+cli.php,5\9\599b7aca33e6fc1d6ebecbd353784f451d25b7af
+J
+src/Framework/Database.php,d\e\de90cb5af59750de77431df5cd33adb6ac4a08ed
+<
+database.sql,d\d\dd715606dbf1c1508d07bd20c1262a49c65d1863
