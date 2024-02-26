@@ -1,0 +1,14 @@
+
+fphp:S103"KSplit this 161 characters long line (which is greater than 120 authorized).(À¦ÑÄ8èŸ» Ş1
+fphp:S103 "KSplit this 161 characters long line (which is greater than 120 authorized).(À¦ÑÄ8éŸ» Ş1
+kphp:S103."KSplit this 161 characters long line (which is greater than 120 authorized).(‘—×Ëÿÿÿÿÿ8éŸ» Ş1
+kphp:S1031"KSplit this 160 characters long line (which is greater than 120 authorized).(ù±‘ıÿÿÿÿ8éŸ» Ş1
+kphp:S1032"KSplit this 160 characters long line (which is greater than 120 authorized).(¶ú´Àûÿÿÿÿ8éŸ» Ş1
+fphp:S103B"KSplit this 161 characters long line (which is greater than 120 authorized).(À¦ÑÄ8éŸ» Ş1
+fphp:S103Q"KSplit this 161 characters long line (which is greater than 120 authorized).(À¦ÑÄ8éŸ» Ş1
+fphp:S103`"KSplit this 161 characters long line (which is greater than 120 authorized).(À¦ÑÄ8éŸ» Ş1
+fphp:S103q"KSplit this 188 characters long line (which is greater than 120 authorized).(»Éâ¸8éŸ» Ş1
+G	php:S2003"&Replace "include" with "include_once".(»ı®Øùÿÿÿÿ8éŸ» Ş1
+H	php:S2003ˆ"&Replace "include" with "include_once".(áÚü­üÿÿÿÿ8éŸ» Ş1
+m	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(»ı®Øùÿÿÿÿ8éŸ» Ş1
+n	php:S4833ˆ"LReplace "include" with namespace import mechanism through the "use" keyword.(áÚü­üÿÿÿÿ8éŸ» Ş1

@@ -5,7 +5,7 @@ declare(strict_types=1);
 require __DIR__ . "/../../vendor/autoload.php";
 
 use Framework\App;
-use App\config\Paths;
+use App\Config\Paths;
 
 use function App\Config\{registerRoutes, registerMiddleware};
 

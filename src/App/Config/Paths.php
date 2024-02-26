@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\config;
+namespace App\Config;
 
 class Paths
 {
