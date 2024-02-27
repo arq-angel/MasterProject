@@ -1,0 +1,10 @@
+
+kphp:S103	"KSplit this 254 characters long line (which is greater than 120 authorized).(²Ïè¸øÿÿÿÿ8£Ÿé¹Þ1
+kphp:S103"KSplit this 258 characters long line (which is greater than 120 authorized).(„ƒÉ«ýÿÿÿÿ8£Ÿé¹Þ1
+fphp:S103"KSplit this 240 characters long line (which is greater than 120 authorized).(éûåÅ8£Ÿé¹Þ1
+B	php:S2003"&Replace "include" with "include_once".(€ýä¼8¤Ÿé¹Þ1
+G	php:S2003"&Replace "include" with "include_once".(Î „²øÿÿÿÿ8¤Ÿé¹Þ1
+B	php:S2003("&Replace "include" with "include_once".(¹Ç¼«8¤Ÿé¹Þ1
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(€ýä¼8¤Ÿé¹Þ1
+m	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Î „²øÿÿÿÿ8¤Ÿé¹Þ1
+h	php:S4833("LReplace "include" with namespace import mechanism through the "use" keyword.(¹Ç¼«8¥Ÿé¹Þ1
