@@ -132,3 +132,9 @@ W
 'src/App/Services/TransactionService.php,0\b\0b3fc598eb4322d9fcd472b1e0a673ab56d403cd
 S
 #src/App/views/transactions/edit.php,f\a\fa60ff3fbd19e326dacc0f9d4b2d9f881cd4520c
+W
+'src/App/Controllers/ErrorController.php,b\d\bda83cfdd0c837e0ec2b54a774b3c2276532342e
+K
+src/App/views/not-found.php,e\f\ef2181160a1baeaaddc66b79c59e87fccd535a19
+F
+src/Framework/Http.php,4\8\48176df8d9c7e82a4c59e5a52e7fb76d2b004039

@@ -9,7 +9,8 @@ use App\Controllers\{
     HomeController,
     AboutController,
     AuthController,
-    TransactionController
+    TransactionController,
+    ErrorController
 };
 use App\Middleware\{AuthRequiredMiddleware, GuestOnlyMiddleware};
 
@@ -28,6 +29,6 @@ function registerRoutes(App $app)
     $app->post('/transaction/{transaction}', [TransactionController::class, 'edit']);
     $app->delete('/transaction/{transaction}', [TransactionController::class, 'delete']);
 
-
+    $app->setErrorHandler([ErrorController::class, 'notFound']);
 
 }
