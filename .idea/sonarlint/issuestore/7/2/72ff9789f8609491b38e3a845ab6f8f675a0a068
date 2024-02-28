@@ -1,2 +1,9 @@
 
-|	php:S1192"[Define a constant instead of duplicating this literal "/transaction/{transaction}" 3 times.(ì»‘Õşÿÿÿÿ8ÌÒÔÁŞ1
+fphp:S103"KSplit this 124 characters long line (which is greater than 120 authorized).( ±ü¡8Öø„ıŞ1
+kphp:S103"KSplit this 121 characters long line (which is greater than 120 authorized).(œ–ñûûÿÿÿÿ8×ø„ıŞ1
+fphp:S103"KSplit this 125 characters long line (which is greater than 120 authorized).(Ò€‚¼8×ø„ıŞ1
+kphp:S103 "KSplit this 130 characters long line (which is greater than 120 authorized).(ú¶ÿ½ÿÿÿÿÿ8×ø„ıŞ1
+kphp:S103!"KSplit this 127 characters long line (which is greater than 120 authorized).(¹ì–Ûıÿÿÿÿ8×ø„ıŞ1
+kphp:S103""KSplit this 138 characters long line (which is greater than 120 authorized).(ëõ·³ùÿÿÿÿ8Øø„ıŞ1
+fphp:S103#"KSplit this 139 characters long line (which is greater than 120 authorized).(¾’×Ü8Øø„ıŞ1
+w	php:S1192"[Define a constant instead of duplicating this literal "/transaction/{transaction}" 3 times.( ±ü¡8ÌÒÔÁŞ1

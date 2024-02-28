@@ -1,7 +1,7 @@
 
 <!-- Footer -->
 <footer class="container mx-auto my-12 text-center">
-    &copy; VMS
+    &copy; MPD
 </footer>
 <!-- End Footer -->
 </body>

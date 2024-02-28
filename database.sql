@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS users(
     updated_at datetime NOT NULL DEFAULT CURRENT_TIMESTAMP(),
     PRIMARY KEY(id),
     UNIQUE KEY(email)
-) ENGINE=InnoDB ;
+    ) ENGINE=InnoDB ;
 
 CREATE TABLE IF NOT EXISTS transactions(
     id bigint(20) NOT NULL AUTO_INCREMENT,
@@ -21,4 +21,14 @@ CREATE TABLE IF NOT EXISTS transactions(
     user_id bigint(20) unsigned NOT NULL,
     PRIMARY KEY(id),
     FOREIGN KEY(user_id) REFERENCES users(id)
-) ENGINE=InnoDB ;
+    ) ENGINE=InnoDB ;
+
+CREATE TABLE IF NOT EXISTS receipts(
+    id bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+    original_filename varchar(255) NOT NULL,
+    storage_filename varchar(255) NOT NULL,
+    media_type varchar(255) NOT NULL,
+    transaction_id bigint(20) NOT NULL,
+    PRIMARY KEY (id),
+    FOREIGN KEY(transaction_id) REFERENCES transactions (id) ON DELETE CASCADE
+    );
